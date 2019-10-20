@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 649b73ae996ce5044983813452bb6497
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfxSource: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - sfxJump: {instanceID: 0}
+  - sfxAtack: {instanceID: 0}
+  - sfxCoin: {instanceID: 0}
+  - sfxEnemyDead: {instanceID: 0}
+  - sfxDamage: {fileID: 8300000, guid: 67c16c7880fa49a439325983f74305dd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
